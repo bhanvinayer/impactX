@@ -1,0 +1,2 @@
+# IMPACTX — Zero Third-Party Runtime Dependencies
+# All functionalities use Python Standard Library only.
