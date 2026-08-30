@@ -258,6 +258,17 @@ IMPACTX:
 
 ---
 
+## 11. Hackathon Track & Accomplishments Summary
+
+* **Track Targeted**: **Track A — Developer Tools & CLI**
+* **Zero Third-Party Dependencies**: **100% Verified** (Empty `requirements.txt`, 0 external runtime packages used)
+* **Single File Target (+5 Bonus Points)**: **Completed** (Entire core analyzer engine cleanly contained in [`impactx.py`](./impactx.py))
+* **Package Killer (+3 Bonus Points)**: **Completed** (Replaced `networkx` with a stdlib-only `DirectedGraph` engine)
+* **STDLIB Log (+3 Bonus Points)**: **Completed** (Detailed in [`STDLIB.md`](./STDLIB.md) with 11 non-trivial stdlib substitutions)
+
+---
+
 ## License
 
 [MIT License](./LICENSE)
+
